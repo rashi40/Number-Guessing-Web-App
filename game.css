@@ -1,0 +1,41 @@
+body{
+margin:0;
+ text-align:center;
+}
+
+#nav{
+ height:1.5em;
+ margin:0;
+ background-color:black;
+}
+
+h1{
+ font-family:"Times New Roman", Times, serif;/*Luminari, fantasy;*/
+ font-style: oblique;
+   text-shadow: 2px 2px #FF0000;
+ }
+
+.heading{
+ color:gray;
+ margin-bottom:.5em;
+}
+
+.inp{
+   height:50px;
+  width:70px;
+    font-size: 25px;
+  border:1px solid black;
+  text-align:center;
+}
+
+.submit{
+ background-color:purple;
+ color:white;
+ border-color:gray;
+}
+
+.content{
+color: white;
+padding-bottom:1em;
+text-align:center;
+}
